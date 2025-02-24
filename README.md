@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, business and
  learning skills, natural languages
 - 🌱 I’m currently learning HTML,CSS, JavaScript
-- and also learning GERMAN language 
+ and also learning GERMAN language 
 - 💞️ I’m looking to collaborate on
  Development or Technology 
 - 📫 How to reach me
