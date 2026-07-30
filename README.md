@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sadaqat Ali 👋
 
-<!--
-**sadaqat14736/sadaqat14736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack MERN Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
+
+### 📚 Currently Learning
+- Next.js
+- TypeScript
+- System Design
+
+### 📫 Contact
+📧 Email: sadaqat.mec786@gmail.com
+
+---
+⭐ Thanks for visiting my GitHub Profile!
